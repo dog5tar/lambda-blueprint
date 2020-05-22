@@ -10,10 +10,9 @@
     "axios": "^0.18.0"
   },
   "scripts": {
-    "test": "mocha tests/unit/"
+    "test": "jest tests/unit/"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.1.4"
+    "jest": "^26.0.1"
   }
 }
